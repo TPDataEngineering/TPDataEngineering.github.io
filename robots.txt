@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://TPDataEngineering.github.io/sitemap.xml
